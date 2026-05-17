@@ -18,8 +18,8 @@ With TestMu AI (Formerly LambdaTest), you can run JUnit qTest sample tests acros
 ### Prerequisites
 
 - Java Development Kit (JDK) 1.8 or higher.
-- [Maven](https://maven.apache.org/) installed.
-- A [TestMu AI account](https://www.testmuai.com/register/). Retrieve your **Username** and **Access Key** from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
+- Maven installed.
+- A TestMu AI account. Retrieve your **Username** and **Access Key** from the TestMu AI Automation Dashboard.
 
 ### Setup
 
