@@ -9,7 +9,7 @@
 
 [TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks. 
 
-With TestMu AI (Formerly LambdaTest), you can run JUnit qTest sample tests across real browsers and operating systems. This sample shows how to configure JUnit tests integrated with qTest to run on the TestMu AI cloud.
+With TestMu AI (Formerly LambdaTest), you can run JUnit tests with qTest across real browsers and operating systems. This sample shows how to configure JUnit tests integrated with qTest to run on the TestMu AI (Formerly LambdaTest) cloud.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
