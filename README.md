@@ -1,4 +1,4 @@
-# Run JUnit qTest Sample Tests on TestMu AI (Formerly LambdaTest)
+﻿# Run JUnit Tests with qTest on TestMu AI (Formerly LambdaTest)
 
 <p align="center">
   <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
@@ -18,8 +18,8 @@ With TestMu AI (Formerly LambdaTest), you can run JUnit qTest sample tests acros
 ### Prerequisites
 
 - Java Development Kit (JDK) 1.8 or higher.
-- [Maven](https://maven.apache.org/) installed.
-- A [TestMu AI account](https://www.testmuai.com/register/). Retrieve your **Username** and **Access Key** from the [TestMu AI Automation Dashboard](https://automation.testmuai.com/).
+- Maven installed.
+- A TestMu AI account. Retrieve your **Username** and **Access Key** from the TestMu AI Automation Dashboard.
 
 ### Setup
 
